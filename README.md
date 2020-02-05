@@ -1,5 +1,5 @@
 # JonathanB
 
-for letting out in github deskup
+Starting up GitHub
 
 Changes have been made
